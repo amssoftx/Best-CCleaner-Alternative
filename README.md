@@ -1,3 +1,4 @@
+<img width="1640" height="924" alt="Shop Now" src="https://github.com/user-attachments/assets/26670178-0fd7-4f5c-a87e-e3d732d54b82" />
 
 **Stop wasting storage space on duplicate files! DuplicateCleaner Pro helps you find and remove duplicate photos, videos, documents, and media in seconds.**
 
